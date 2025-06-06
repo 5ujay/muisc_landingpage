@@ -60,7 +60,7 @@ const About = () => {
       {/* Content */}
       <div className="relative z-10 max-w-4xl mx-auto text-center text-gray-300">
         <motion.h2
-          className="text-3xl font-extrabold mb-6 text-purple-400 drop-shadow-lg"
+          className="text-xl font-extrabold mb-6 text-purple-400 drop-shadow-lg"
           variants={textVariants}
           initial="hidden"
           animate="visible"
